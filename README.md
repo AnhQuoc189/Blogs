@@ -6,17 +6,21 @@ First, run the development server:
 
 ```bash
 cd server
-npm run dev
+npm i
+
+npm start
 # or
-yarn dev
+yarn start
 # or
-pnpm dev
+pnpm start
 ```
 
 Second, run the development client:
 
 ```bash
 cd client
+npm i
+
 npm run dev
 # or
 yarn dev
